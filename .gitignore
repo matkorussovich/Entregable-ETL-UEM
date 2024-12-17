@@ -1,1 +1,4 @@
 venv/
+perspective.json
+.env
+__pycache__
